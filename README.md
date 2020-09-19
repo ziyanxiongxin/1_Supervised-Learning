@@ -10,9 +10,15 @@ This doc helps you prepare your local python environment. After have a python en
 
 4. Open jupyter notebook: We have already installed jupyter in step 3, to open it up you can run: jupyter notebook
 
+5. download the two groups of data to the current folder. You need to unzip the bitcoin data.
+Bitcoin transaction history data: https://archive.ics.uci.edu/ml/datasets/BitcoinHeistRansomwareAddressDataset
+Skin-Non skin data: https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
+
 5. Navigate to subfolders to run experiment
 There are 12 subfolders and each containes experiement codes for one supervised learning algorithm used on one group of data.
-For example: the folder 'Decision_bitcoin' is the decision tree algorithm on bitcoin transcation data. In each subfolders there will be a readme.txt to explain how the experiment is done.
+For example: the folder 'Decision_bitcoin' is the decision tree algorithm on bitcoin transcation data. The code contains codes to generate the graph generated in the analysis write-up.
+
+
  
 
 
