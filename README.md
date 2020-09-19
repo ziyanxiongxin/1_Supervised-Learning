@@ -5,7 +5,7 @@ This doc is designed to help you prepare your local python environment. After fo
 
 1. Get repository
 First thing first, pull this repository to your local machine:
-https://github.com/ziyanxiongxin/1_Supervised_Learning
+https://github.com/ziyanxiongxin/a1_Supervised_Learning
 
 2. Set up the environment:
 Use Conda to setup your environment, simply run: conda create --name ml_env python=3.7 -y
