@@ -15,8 +15,7 @@ Bitcoin transaction history data: https://archive.ics.uci.edu/ml/datasets/Bitcoi
 Skin-Non skin data: https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
 
 5. Navigate to subfolders to run experiment
-There are 12 subfolders and each containes experiement codes for one supervised learning algorithm used on one group of data.
-For example: the folder 'Decision_bitcoin' is the decision tree algorithm on bitcoin transcation data. The code contains codes to generate the graph generated in the analysis write-up.
+There are 12 subfolders and each contains experiment codes for one supervised learning algorithm used on one group of data. For example: the folder 'Decision_bitcoin' is the decision tree algorithm on bitcoin transaction data. Each folder also contains the graph in the analysis write-up generated from the codes
 
 
  
